@@ -1,0 +1,111 @@
+Day 2/60 — Networking Fundamentals 🌐  
+Learning how the internet works: ISP, DNS, IP & Protocols.
+
+
+
+DAY-2
+@thecodethread yt
+
+
+A network is a group of connected computers or devices that can share data, resources, and communicate with each other.
+
+🔹 Types of Network
+
+1. PAN (Personal Area Network)
+
+Smallest network
+Covers a few meters (around a person)
+Example: Bluetooth connection between phone and earbuds
+
+2. LAN (Local Area Network)
+
+Covers a small area like a home, school, or office
+High speed and low cost
+Example: Wi-Fi in your college lab
+
+3. MAN (Metropolitan Area Network)
+
+Covers a city or large campus
+Bigger than LAN, smaller than WAN
+Example: City-wide internet network
+
+4. WAN (Wide Area Network)
+
+Covers large geographical areas (countries or continents)
+Example: The Internet
+
+5. CAN (Campus Area Network)
+Covers a university or group of buildings
+Example: Network in your college campus
+
+🔹 Other Types (Based on Structure)
+
+6. Peer-to-Peer Network
+All computers are equal
+No central server
+
+7. Client-Server Network
+One central server controls other computers (clients)
+Used in companies and websites
+
+
+Use - Optical fiber cables 
+
+
+
+
+
+🔹 1. ISP (Internet Service Provider)
+
+A company that gives you internet access.
+Examples: Jio, Airtel
+
+🔹 2. Modem
+
+A device that connects your computer/router to the internet.
+It converts digital data into signals and vice versa.
+
+🔹 3. DNS (Domain Name System)
+
+It converts website names into IP addresses.
+Example: typing Google → DNS gives its IP address.
+
+🔹 4. URL (Uniform Resource Locator)
+
+The full address of a website.
+Example: https://www.google.com
+
+🔹 5. IP (Internet Protocol)
+
+A set of rules for communication over a network.
+
+🔹 6. IPv4 (Internet Protocol Version 4)
+Uses 32-bit address
+Example: 192.168.1.1
+Limited number of addresses
+
+🔹 7. IPv6 (Internet Protocol Version 6)
+Uses 128-bit address
+Example: 2001:0db8:85a3::8a2e:0370:7334
+Supports huge number of devices
+
+🔹 8. Payload
+
+The actual data being sent in a network packet (message content).
+
+🔹 9. Protocol
+
+A set of rules for communication between devices.
+Examples:
+
+HTTP (for web)
+FTP (for file transfer)
+🔹 One-Line Revision (Important for Viva)
+ISP → provides internet
+Modem → connects to internet
+DNS → name → IP conversion
+URL → website address
+IP → communication rule
+IPv4/IPv6 → address versions
+Payload → actual data
+Protocol → communication rules
